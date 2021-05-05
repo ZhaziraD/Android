@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="0dp"
+        android:backgroundTint="@color/black"
+        android:src="@drawable/ic_baseline_play_arrow_24" />z
+</FrameLayout>
+
+
+    <!--    <LinearLayout-->
+    <!--        android:layout_width="60dp"-->
+    <!--        android:layout_height="60dp"-->
+    <!--        android:layout_gravity="center">-->
+
+    <!--        <de.hdodenhof.circleimageview.CircleImageView-->
+
+    <!--            android:id="@+id/songIcon"-->
+    <!--            android:layout_width="wrap_content"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:layout_alignParentRight="true"-->
+    <!--            android:src="@drawable/song1"-->
+    <!--            android:layout_gravity="center"-->
+    <!--            app:civ_border_color="@android:color/transparent"-->
+    <!--            app:civ_border_width="2dp">-->
+    <!--        </de.hdodenhof.circleimageview.CircleImageView>-->
+
+    <!--        <com.google.android.material.floatingactionbutton.FloatingActionButton-->
+    <!--            android:id="@+id/button"-->
+    <!--            android:layout_width="60dp"-->
+    <!--            android:layout_height="60dp"-->
+    <!--            android:layout_gravity="center"-->
+    <!--            android:layout_marginStart="0dp"-->
+    <!--            android:layout_marginLeft="0dp"-->
+    <!--            android:layout_marginTop="0dp"-->
+    <!--            android:layout_marginEnd="0dp"-->
+    <!--            android:layout_marginRight="0dp"-->
+    <!--            android:layout_marginBottom="0dp"-->
+    <!--            android:backgroundTint="@android:color/transparent"-->
+    <!--            android:background="@android:color/transparent"-->
+    <!--            android:src="@drawable/ic_baseline_play_arrow_24" >-->
+    <!--        </com.google.android.material.floatingactionbutton.FloatingActionButton>-->
+
+    <!--    </LinearLayout>-->
+
+

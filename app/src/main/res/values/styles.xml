@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BackActionBar">
+        <item name="colorControlNormal">@color/txtLight</item>
+    </style>
+
+
+    <style name="themeOnverlay_timePicker" parent="@style/ThemeOverlay.MaterialComponents.Dialog">
+        <item name="colorControlActivated">@color/endColor</item>
+        <item name="colorAccent">@color/startColor</item>
+        <item name="android:textColorPrimary">@color/txt2</item>
+        <item name="android:textColorSecondary">@color/txt2</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>

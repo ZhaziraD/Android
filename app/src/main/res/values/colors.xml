@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorAccent">#FF000000</color>
+    <color name="lyricsColor">#232429</color>
+    <color name="txt2">#232429</color>
+    <color name="txtLight">#f5f7fa</color>
+    <color name="txtLight2">#c3cfe2</color>
+
+
+    <color name="startColor">#a7a6cb</color>
+    <color name="endColor">#8989ba</color>
+</resources>
+
+
+<!--<color name="startColor">#9890e3</color>-->
+<!--<color name="endColor">#c3cfe2</color>-->
+<!--    f5f7fa→#c3cfe2-->
+<!--    #ff9a9e→#fecfef-->
+<!--    #fdcbf1→#e6dee9-->
+<!--    #a8edea→#fed6e3-->
